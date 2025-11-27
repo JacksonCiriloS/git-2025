@@ -1,5 +1,0 @@
-Esse arquivo é original da branch caminho_sec
-
-fazendo git commit 01
-
-fazendo git commit 02
