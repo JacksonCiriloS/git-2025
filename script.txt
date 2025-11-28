@@ -1,0 +1,4 @@
+Script da do programa:
+
+- executa a função geral:
+- executa a função abc:
